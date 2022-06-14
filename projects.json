@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Tarot Past/Present/Future",
+        "live": "https://profound-entremet-2e58ba.netlify.app/",
+        "git": "https://github.com/BarbourD/tarot-project",
+        "image": "https://i.imgur.com/zqxNWgP.png"
+    },
+    
+    {
+        "name": "Ballet Class Builder",
+        "live": "https://balletclassbuilder.herokuapp.com/",
+        "git": "https://github.com/BarbourD/balletClassBuilder",
+        "image": "https://i.imgur.com/FcfpNgj.jpg"
+    }
+]
